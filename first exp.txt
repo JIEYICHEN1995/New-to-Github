@@ -1,8 +1,11 @@
 First experience of using Github
 
-The website is really cool. The dark color gives the 'coding' feeling.
+The website is really cool. The dark color is exactly what a coder needs.
 The sign up process is fun. The galaxy theme of the website is kind of cool.
 This is my first time creating a repository in Github, and the process is straghtforward. 
 
+
 Here is the actions that I am going to take:
 1. I am going to make some changes to this text file
+2. I am going to amke another changes to this text file
+
